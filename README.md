@@ -4,8 +4,11 @@
 
 ## 参考课程与致谢
 - **强化学习基础（本科生课程）** ---- 北京邮电大学  鲁鹏老师
+
   链接：[Bilibili](https://www.bilibili.com/video/BV16Y4y1M7DX/?share_source=copy_web&vd_source=3632f79af968d9fcc1b19161246a8a12)
+
 - **强化学习的数学原理：从零到透彻理解（完结）**  ---- 西湖大学  赵世钰老师
+  
   链接：[Bilibili](https://www.bilibili.com/video/BV1sd4y167NS/?share_source=copy_web&vd_source=3632f79af968d9fcc1b19161246a8a12)
 
 > 课程版权归原作者与平台所有，本文档仅做学习笔记引用与链接，不包含任何课程资源的再分发。
